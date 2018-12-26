@@ -7,3 +7,4 @@ All notable changes to the KoLmafia ASH extension will be documented in this fil
 **Addded:**
 
 * language configuration
+* syntax highlighting

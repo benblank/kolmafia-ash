@@ -15,6 +15,11 @@
             "aliases": ["KoLMafia ASH", "ash"],
             "extensions": [".ash"],
             "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "ash",
+            "scopeName": "source.ash",
+            "path": "./syntaxes/ash.tmLanguage.json"
         }]
     }
 }
