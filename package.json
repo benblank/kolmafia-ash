@@ -10,5 +10,11 @@
         "Programming Languages"
     ],
     "contributes": {
+        "languages": [{
+            "id": "ash",
+            "aliases": ["KoLMafia ASH", "ash"],
+            "extensions": [".ash"],
+            "configuration": "./language-configuration.json"
+        }]
     }
 }
