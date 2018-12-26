@@ -1,0 +1,14 @@
+{
+    "name": "ash",
+    "displayName": "KoLmafia ASH",
+    "description": "Language support for KoLmafia ASH scripts.",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+    }
+}
