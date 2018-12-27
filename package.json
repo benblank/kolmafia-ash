@@ -1,14 +1,32 @@
 {
     "name": "ash",
+    "publisher": "benblank",
     "displayName": "KoLmafia ASH",
     "description": "Language support for KoLmafia ASH scripts.",
+    "author": "Ben \"535\" Blank <ben.blank@gmail.com>",
     "version": "1.0.0",
+    "icon": "images/swordbot.png",
+    "galleryBanner": {
+        "color": "#EEEEEE",
+        "theme": "light"
+    },
+    "private": true,
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/benblank/kolmafia-ash.git"
+    },
+    "homepage": "https://github.com/benblank/kolmafia-ash#readme",
+    "bugs": {
+        "url": "https://github.com/benblank/kolmafia-ash/issues"
+    },
+    "license": "BSD-2-Clause",
     "engines": {
         "vscode": "^1.30.0"
     },
     "categories": [
         "Programming Languages"
     ],
+    "keywords": ["ash", "kol", "kolmafia", "mafia"],
     "contributes": {
         "languages": [{
             "id": "ash",
