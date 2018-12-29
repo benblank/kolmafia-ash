@@ -2,7 +2,7 @@
 
 All notable changes to the KoLmafia ASH extension will be documented in this file.
 
-### [Unreleased]
+### [1.0.1] - 2018-12-28
 
 **Addded:**
 

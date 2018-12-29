@@ -4,7 +4,7 @@
     "displayName": "KoLmafia ASH",
     "description": "Language support for KoLmafia ASH scripts.",
     "author": "Ben \"535\" Blank <ben.blank@gmail.com>",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "icon": "images/swordbot.png",
     "galleryBanner": {
         "color": "#EEEEEE",
